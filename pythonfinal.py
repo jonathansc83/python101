@@ -1,5 +1,3 @@
-
-
 import csv
 
 # create a dictionary to store departments and their expenses
